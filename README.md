@@ -22,11 +22,11 @@ Aplikasi desktop manajemen katalog produk berbasis **JavaFX** dan **SQLite** yan
 ## Screenshot Aplikasi
 
 ### Tampilan Utama & Katalog Produk
-![Tampilan Utama Katalog Produk]<img width="1423" height="982" alt="Screenshot 2026-11-19 173721" src="https://github.com/user-attachments/assets/69e6e1eb-edd3-4545-ad08-8698835569c7" />
+<img width="1423" height="982" alt="Screenshot 2026-11-19 173721" src="https://github.com/user-attachments/assets/69e6e1eb-edd3-4545-ad08-8698835569c7" />
 
 
 ### Mode Edit & Upload Gambar Manual
-![Mode Edit Produk]<img width="1422" height="986" alt="Screenshot 2026-11-19 174524" src="https://github.com/user-attachments/assets/529c6dcd-a1af-429a-8000-14715c29e713" />
+<img width="1422" height="986" alt="Screenshot 2026-11-19 174524" src="https://github.com/user-attachments/assets/529c6dcd-a1af-429a-8000-14715c29e713" />
 
 ---
 
